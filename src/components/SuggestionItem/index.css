@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.suggestionItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.img3 {
+  width: 25px;
+  height: 25px;
+}
+.para {
+  font-family: 'roboto';
+  font-size: 16px;
+  color: #475569;
+}
